@@ -23,7 +23,7 @@ $ bug-clinic
 
 ## License
 
-**bug-clinic** is Copyright (c) 2014 Forrest L Norvell
+**bug-clinic** is Copyright (c) 2015 Forrest L Norvell
 [@othiym23](https://twitter.com/othiym23) and contributors licensed
 under the BSD License. All rights not explicitly granted in the BSD
 License are reserved. See the included [LICENSE.md](./LICENSE.md) file
